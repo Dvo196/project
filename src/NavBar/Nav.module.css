@@ -1,0 +1,192 @@
+.img_header{
+    width: 100%;
+   height: 99.4vh; 
+}
+ul{
+   font-size: 20px;
+   display: flex;
+   align-items: center;
+   color: white;
+   list-style: none;
+   position: absolute;
+   margin-left: 20%;
+   width: 77%;
+   height: 103px;
+}
+.Cosmo{
+   margin-top: 10px;
+   margin-left: 45px;
+   position: absolute;
+   font-family: Merienda;
+   font-size: 54px;;
+   line-height: 78px;
+   letter-spacing: 0em;
+   color: white;
+}
+.beril0{
+   margin-left: 300px;
+   
+}
+.beril0:hover{
+   color: goldenrod;
+   cursor: pointer;
+   transition: 0.2s;
+}
+.beril1{
+   margin-left: 61px;
+}
+.beril1:hover{
+   color: goldenrod;
+   cursor: pointer;
+   transition: 0.2s;
+}
+.beril2{
+   margin-left: 61px;
+}
+.beril2:hover{
+   color: goldenrod;
+   cursor: pointer;
+   transition: 0.2s;
+}
+.beril3{
+   margin-left: 61px;
+} 
+.beril3:hover{
+   color: goldenrod;
+   cursor: pointer;
+   transition: 0.2s;
+}
+/* .name{
+   color: white;
+   display: flex;
+   justify-content: start;
+   align-items: start;
+   font-size: 35px;
+   margin-left: 7%;
+   margin-top: 1.5%;
+   position: absolute;
+   font-family: Merienda;
+   font-size: 54px;
+   font-weight: 400;
+   line-height: 78px;
+   letter-spacing: 0em;
+   text-align: left;
+   color: white;
+   margin-left: 40px;
+
+} */
+.linear{
+   position: absolute;
+   color: white;
+   list-style: none;
+   color: white;
+   margin-left: 40px;
+   background: linear-gradient(90.43deg, #0F0B06 68.03%, rgba(15, 11, 6, 0) 93.11%);
+   height: 99.4vh; 
+}
+.name1{
+   font-family: Merienda;
+   font-size: 54px;
+   font-weight: 400;
+   line-height: 78px;
+   letter-spacing: 0em;
+   text-align: left;
+}
+.name2{
+   width: 410px;
+   margin-top: 110px;
+   font-family: Lora;
+   font-size: 64px;
+   font-weight: 400;
+   line-height: 82px;
+   letter-spacing: 0em;
+   text-align: left;
+
+}
+.name3{
+   margin-top: 30px;
+   font-family: Roboto;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 21px;
+   letter-spacing: 0em;
+   text-align: left;
+
+}
+.name4{
+   margin-top: 25px;
+   font-family: Inter;
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 24px;
+   letter-spacing: 0em;
+   text-align: left;
+}
+
+.img2{
+   margin-left: 10px;
+}
+.img3{
+   margin-left: 10px;
+}
+
+.name5{
+   font-family: ABeeZee;
+   font-size: 45px;
+   font-weight: 400;
+   line-height: 53px;
+   letter-spacing: 0em;
+   text-align: left;
+   
+
+}
+.name6{
+   margin-top: 5px;
+   font-family: ABeeZee;
+   font-size: 13px;
+   font-weight: 400;
+   line-height: 15px;
+   letter-spacing: 0em;
+   text-align: left;
+
+}
+.textes{
+   position: absolute;
+   margin-top: 900px;
+   margin-left: 450px;
+}
+/* .minus_plus{
+   position: absolute;
+   width: Hug (92.4px);
+   left: 1135px;
+   padding: 6px;
+   border-radius: 45px;
+   gap: 8px;
+   border: 2px solid red;
+   margin-top: -10%;
+
+} */
+
+.Frame4{
+   margin-left: 300px;
+}
+.btn{
+   width:  82px;
+   height: 29px;
+   border-radius: 45px;
+   background-color: black;
+   border: none;
+   color: white;
+   margin-left: 50px;
+   cursor: pointer;
+
+}
+.btn:hover{
+   color: goldenrod;
+   background-color: black;
+   transition: 0.3s;
+}
+.peremn{
+   display: flex;
+}
+

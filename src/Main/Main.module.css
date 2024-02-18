@@ -1,0 +1,229 @@
+li{
+    list-style: none;
+}
+.Main{
+    margin-top: -4px;
+    background: #C7C5C5;
+    height: 2000px;
+}
+.Lines{
+    display: flex;
+    flex-direction: column;
+}
+.Line1{
+    margin-top: 45px;
+    margin-left: 30px;
+    border: 1px solid #000000;
+    width: 320px;
+}
+.Textes_Lines{
+    display: flex;
+    flex-direction: column;
+    margin-left: 35px;
+    list-style: none;
+}
+.Home{
+    font-family: Martel;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 37px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.Line2{
+    margin-top: 35px;
+    border: 1px solid #000000;
+    width: 320px;
+}
+.Line3{
+    margin-top: 35px;
+    border: 1px solid #000000;
+    width: 320px;
+}
+.Line4{
+    margin-top: 35px;
+    border: 1px solid #000000;
+    width: 320px;
+}
+.Line5{
+    margin-top: 35px;
+    border: 1px solid #000000;
+    width: 320px;
+}
+.Line6{
+    border: 1px solid #000000;
+    width: 1px;
+    height: 787px;
+    position: absolute;
+    margin-left: 430px;
+}
+.full{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    margin-top: -370px;
+    flex-direction: column;
+}
+.product_list{
+    font-family: Martel Sans;
+    font-size: 55px;
+    font-weight: 400;
+    line-height: 100px;
+    margin-left: 40px;
+}
+.number_10{
+    color:#CEA080;
+}
+.product_info{
+    font-family: Hind;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35px;
+    margin-left: 167px;
+    margin-top: -15px;
+}
+.moisturasing{
+    margin-right: 218px;
+    font-family: Martel Sans;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 55px;
+}
+.moisturasing_info{
+    font-family: Mallanna;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-right: 287px;
+}
+.Product_images{
+    margin-left: 435px;
+    margin-top: 30px;
+}
+.product_iamge1{
+    width: 325px;
+}
+.product_iamge2{
+    width: 325px;
+    margin-left: 15px;
+}
+.product_iamge3{
+    width: 228px;
+    margin-left: 15px;
+}
+.Unlock{
+    margin-top: 45px;
+    margin-left: 45px;
+    font-family: Khula;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+}
+.images_subtract{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 45px;
+}
+.Subtract1{
+    width: 634px;
+}
+.Subtract2{
+    width: 634px;
+    margin-left: 30px;
+
+}
+.btn{
+    width: 175px;
+    height: 38px;
+    position: absolute;
+    margin-left: 730px;
+    margin-top: -50px;
+    border: none;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color:#CEA080;
+
+}
+.Lines_btn{
+    display: flex;
+    flex-direction: row;
+}
+.Line_btn1{
+    margin-top: 45px;
+    margin-left: 46px;
+    border: 1px solid #000000;
+    width: 100%;
+
+}
+.btn1{
+    width: 175px;
+    height: 38px;
+    border: none;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.butons{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+.Line_btn2{
+    margin-top: 9px;
+    margin-left: -34px;
+    border: 1px solid #000000;
+    width: 1297px;
+}
+
+.btn2{
+    width: 175px;
+    height: 38px;
+    border: none;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 35px;
+}
+.btn3{
+    width: 175px;
+    height: 38px;
+    border: none;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 35px;
+
+}
+.btn4{
+    width: 175px;
+    height: 38px;
+    border: none;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 35px;
+
+}
+.btn5{
+    width: 175px;
+    height: 38px;
+    border: none;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 35px;
+
+}
+.btn6{
+    width: 175px;
+    height: 38px;
+    border: none;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 35px;
+
+}
